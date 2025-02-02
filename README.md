@@ -17,7 +17,7 @@
 - **Bases de datos**: MySQL.
 
 ## Proyectos personales 🚧
-- 📂 Aquí puedes ver algunos de mis proyectos: NexTech1.kesug.com
+- 📂 Aquí puedes ver algunos de mis proyectos:(https://tangerine-sfogliatella-a6df50.netlify.app/)
 - 🛠️ Siempre estoy trabajando en algo nuevo. ¡Pronto habrá más proyectos interesantes!
 
 ## Mis metas 🎯
