@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Alex, un apasionado estudiante de programación. 💻🚀
 
-<!--
-**AlexDev0627/AlexDev0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí 🌟
+- 🎓 Actualmente estoy estudiando programación y desarrollo de software.
+- 💡 Me encanta aprender nuevas tecnologías y resolver problemas con código.
+- 🌱 Estoy enfocado en mejorar mis habilidades en  Python, JavaScript, HTML/CSS,
 
-Here are some ideas to get you started:
+## Mis intereses 🧠
+- 🖥️ Desarrollo web y aplicaciones.
+- 🤖 Inteligencia artificial y machine learning.
+- 🎮 Creación de videojuegos.
+- 🔒 Seguridad informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que estoy aprendiendo 🛠️
+- **Lenguajes de programación**: HTML/CSS Python, JavaScript, PHP. 
+- **Frameworks y herramientas**: React, Node.js, Git.
+- **Bases de datos**: MySQL.
+
+## Proyectos personales 🚧
+- 📂 Aquí puedes ver algunos de mis proyectos: https://github.com/AlexDev0627/ClinicaWeb.
+- 🛠️ Siempre estoy trabajando en algo nuevo. ¡Pronto habrá más proyectos interesantes!
+
+## Mis metas 🎯
+- 🌍 Contribuir a proyectos de código abierto.
+- 🚀 Desarrollar aplicaciones y/o paginas web que impacten positivamente en la vida de las personas.
+- 📚 Seguir aprendiendo y creciendo como desarrollador.
+
+## ¡Conéctate conmigo! 📫
+- 📧 Correo electrónico: Yofranksalas@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/yofrank-salas-430a7b24b/
+
+¡Gracias por visitar mi perfil! 😊 Siempre estoy abierto a colaborar, aprender y compartir ideas. ¡No dudes en contactarme!
