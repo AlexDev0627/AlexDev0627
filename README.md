@@ -17,7 +17,7 @@
 - **Bases de datos**: MySQL.
 
 ## Proyectos personales 🚧
-- 📂 Aquí puedes ver algunos de mis proyectos: https://github.com/AlexDev0627/ClinicaWeb.
+- 📂 Aquí puedes ver algunos de mis proyectos: NexTech1.kesug.com
 - 🛠️ Siempre estoy trabajando en algo nuevo. ¡Pronto habrá más proyectos interesantes!
 
 ## Mis metas 🎯
