@@ -10,7 +10,9 @@
 - 🎓 Actualmente estoy estudiando programación y desarrollo de software.
 - 💡 Me encanta aprender nuevas tecnologías y resolver problemas con código.
 - 🌱 Estoy enfocado en mejorar mis habilidades en  Python, JavaScript, HTML/CSS,
-- <br><br>
+- 🧑‍💻 Me encanta usar el Software como solución a cada `Problema`.
+- 🤓 Siempre aprendiendo cosas `nuevas`.
+  <br<br>
 
 
 
