@@ -7,10 +7,11 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
-
 - 🎓 Actualmente estoy estudiando programación y desarrollo de software.
 - 💡 Me encanta aprender nuevas tecnologías y resolver problemas con código.
 - 🌱 Estoy enfocado en mejorar mis habilidades en  Python, JavaScript, HTML/CSS,
+
+
 
 ## Mis intereses 🧠
 - 🖥️ Desarrollo web y aplicaciones.
