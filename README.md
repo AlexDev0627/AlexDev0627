@@ -12,7 +12,9 @@
 - 🌱 Estoy enfocado en mejorar mis habilidades en  Python, JavaScript, HTML/CSS,
 - 🧑‍💻 Me encanta usar el Software como solución a cada `Problema`.
 - 🤓 Siempre aprendiendo cosas `nuevas`.
-  <br<br>
+
+
+  <br><br>
 
 
 
