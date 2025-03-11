@@ -1,29 +1,33 @@
+<h1 align="center">Hello, I'm Alexandro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align="center">Hola, Soy Alexandro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+Web;Estudiante;Programador+Competitivo;Siempre+Aprendiendo+Cosas+Nuevas;Rapido+Aprendizaje;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300AA00&size=25&center=true&vCenter=true&width=600&height=100&lines=|~+Web+Development+|;|~++Computer+Science+Student+|;|~+Competitive+Programmer+|;|~+Always+Learning+New+Things+|;|~+Fast+Learning+|;|~+Technology+Passionate+|;|~+Problem+Solver+|;|~+Creative+Thinker+|;">
+  </a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
 
-- 🎓 Actualmente estoy estudiando programación y desarrollo de software.
-- 💡 Me encanta aprender nuevas tecnologías y resolver problemas con código.
-- 🌱 Estoy enfocado en mejorar mis habilidades.
-- 🧑‍💻 Me encanta usar el Software como solución a cada `Problema`.
-- 🤓 Siempre aprendiendo cosas `nuevas`.
+- 🎓 I am currently studying programming and software development.
+- 💡 I love learning new technologies and solving problems with code.
+- 🌱 I am focused on improving my skills.
+- 🧑‍💻 I love using Software as a solution to every `Problem`.
+- 🤓 Always learning `new` things.
 
-## Mis intereses 🧠
-- 🖥️ Desarrollo web y aplicaciones.
-- 🤖 Inteligencia artificial y machine learning.
-- 🎮 Creación de videojuegos.
-- 🔒 Seguridad informática.
+## My Interests 🧠
+- 🖥️ Web and app development.
+- 🤖 Artificial intelligence and machine learning.
+- 🎮 Game development.
+- 🔒 Cybersecurity.
   <br><br>
 
-## Proyectos personales 🚧
-- 📂 Aquí puedes ver algunos de mis proyectos:(https://tangerine-sfogliatella-a6df50.netlify.app/)
-- 🛠️ Siempre estoy trabajando en algo nuevo. ¡Pronto habrá más proyectos interesantes!
+## Personal Projects 🚧
+- 📂 Here you can see some of my projects: (https://tangerine-sfogliatella-a6df50.netlify.app/)
+- 🛠️ I'm always working on something new. More exciting projects coming soon!
 
 <br><br>
 
@@ -39,8 +43,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
-
-
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -49,10 +51,9 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-
 </span>
 
-<h4> Contact</h4>
+<h4> Contact </h4>
 <span>
   <a>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -65,13 +66,12 @@
 
 <br><br>
 
-## Chek Out My Social Media
+## Check Out My Social Media
 <span>
 
   <a>
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
   </a>
-  
   
   <a>
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">  
@@ -89,10 +89,7 @@
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
   </a>
 
-  
   <hr>
-
-
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats</h2> 
@@ -118,4 +115,4 @@
 
 </p>
 
-¡Gracias por visitar mi perfil! 😊 Siempre estoy abierto a colaborar, aprender y compartir ideas.
+Thanks for visiting my profile! 😊 I'm always open to collaborating, learning, and sharing ideas.
