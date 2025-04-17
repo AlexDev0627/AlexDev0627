@@ -25,7 +25,7 @@
   <br><br>
 
 ## Personal Projects 🚧
-- 📂 Here you can see some of my projects: (https://nex-tech.vercel.app/)
+- 📂 Here you can see some of my projects: https://nex-tech.vercel.app/
 - 🛠️ I'm always working on something new. More exciting projects coming soon!
 
 <br><br>
