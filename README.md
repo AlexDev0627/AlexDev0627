@@ -23,6 +23,9 @@
 - 🎮 Game development.
 - 🔒 Cybersecurity.
   <br><br>
+## Jobs  🖥️
+- 📂 Development of corporate website for international maritime transport services. The interface was optimized to reflect the brand's commitment to operational excellence and quality user service: https://globalnexttrading.com/
+
 
 ## Personal Projects 🚧
 - 📂 Here you can see some of my projects: https://my-portfolio-83ja8t8zx-alexdev0627s-projects.vercel.app/#sobre-mi
